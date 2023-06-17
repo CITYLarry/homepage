@@ -73,6 +73,7 @@ body {
 .contact-info__header,
 .contact-info__sub-header {
     text-align: center;
+    letter-spacing: 0.5rem;
 }
 
 .contact-info__header {
